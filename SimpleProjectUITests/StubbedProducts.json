@@ -1,0 +1,48 @@
+{
+"status":"ok",
+"meta":{
+   "offset":0,
+   "limit":1,
+   "count":1,
+   "total":1
+},
+"data":[
+   {
+      "id":"0009468c-33e9-11e7-b485-02859a19531d",
+      "sku":"AP-ACH-WIN-WHI-23-P",
+      "title":"Borsao Macabeo",
+      "description":"A flavoursome Summer wine made from the indigenous Macabeo grape in northern Spain. A balanced, modern white with flavours of ripe peach, zesty lemon and nutty undertones, it leaves the palate with a clean and fruity finish.",
+      "list_price":"6.95",
+      "is_vatable":true,
+      "is_for_sale":false,
+      "age_restricted":true,
+      "box_limit":2,
+      "always_on_menu":false,
+      "volume":1000,
+      "zone":"Ambient",
+      "created_at":"2017-05-08T13:22:27+01:00",
+      "tags":[
+
+      ],
+      "images":{}
+   },
+   {
+      "id":"00a0130e-bfea-11e7-a2c2-0617e74d8914",
+      "sku":"AP-FCD-BIS-06",
+      "title":"Love Shortie All Butter Shortbread",
+      "description":"A rich all butter shortbread, delicately sweet and crumbly with a hint of sea salt, straight out of Scotland. ",
+      "list_price":"3.95",
+      "is_vatable":false,
+      "is_for_sale":true,
+      "age_restricted":false,
+      "box_limit":2,
+      "always_on_menu":false,
+      "volume":null,
+      "zone":null,
+      "created_at":"2017-11-02T16:22:21+00:00",
+      "tags":[
+
+      ],
+      "images":{}
+   }
+}

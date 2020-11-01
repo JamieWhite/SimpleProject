@@ -1,0 +1,23 @@
+/**
+ *  Context: Title of the top movies screen
+ *  Max characters: 40
+ */
+"products.title" = "Products";
+
+/**
+ *  Context: Body of the error message shown when the movies fail to load
+ *  Max characters: 150
+ */
+"products.load.error.body" = "Something went wrong. Pull to refresh";
+
+/**
+ *  Context: Button on the movies error alert
+ *  Max characters: 40
+ */
+"products.load.error.actionButton" = "Okay";
+
+/**
+ *  Context: Placeholder for the search bar
+ *  Max characters: 40
+ */
+"products.search.placeholder" = "Search for products";
